@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>From William&#39;s Desk</title>
-    <link>http://williamteo.github.io/</link>
+    <link>https://williamteo.github.io/</link>
     <description>Recent content on From William&#39;s Desk</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 09 May 2021 16:07:02 +0800</lastBuildDate><atom:link href="http://williamteo.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 09 May 2021 16:07:02 +0800</lastBuildDate><atom:link href="https://williamteo.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hello World</title>
-      <link>http://williamteo.github.io/posts/hello-world/</link>
+      <link>https://williamteo.github.io/posts/hello-world/</link>
       <pubDate>Sun, 09 May 2021 16:07:02 +0800</pubDate>
       
-      <guid>http://williamteo.github.io/posts/hello-world/</guid>
+      <guid>https://williamteo.github.io/posts/hello-world/</guid>
       <description>Test test test&amp;hellip;</description>
     </item>
     
